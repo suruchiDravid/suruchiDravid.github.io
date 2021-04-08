@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c85a5ffc818fa96beeefc7619b32f285",
+    "revision": "d597602353970fcf78cf871c9fae80e2",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "3c60d93109c7749ff3e1",
+    "revision": "4f1a05d627a0e80fec72",
     "url": "/static/css/main.8d0eac33.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.fbe81a3a.chunk.js"
   },
   {
-    "revision": "3c60d93109c7749ff3e1",
-    "url": "/static/js/main.fa794356.chunk.js"
+    "revision": "4f1a05d627a0e80fec72",
+    "url": "/static/js/main.30b29aa4.chunk.js"
   },
   {
     "revision": "f99440bd729ee0c43bfc",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "517574c8b64a67b2d6e9f9c3d5aed178",
+    "url": "/static/media/BMSIT.517574c8.png"
   },
   {
     "revision": "9b2f8aa178ef92c1df2e17b98ed30466",
@@ -72,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "dc98064e8bc40d83d91362d4ce1dd9d3",
     "url": "/static/media/linux.dc98064e.png"
   },
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "/static/media/skill.34409398.svg"
+    "revision": "792538cf3b7e8d066d8c506a6421f7b7",
+    "url": "/static/media/northeasternUniversity.792538cf.png"
   },
   {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
+    "revision": "3440939881da8339d1597e8d77cdf850",
+    "url": "/static/media/skill.34409398.svg"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",

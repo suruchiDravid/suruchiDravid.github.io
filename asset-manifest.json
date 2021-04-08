@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8d0eac33.chunk.css",
-    "main.js": "/static/js/main.fa794356.chunk.js",
-    "main.js.map": "/static/js/main.fa794356.chunk.js.map",
+    "main.js": "/static/js/main.30b29aa4.chunk.js",
+    "main.js.map": "/static/js/main.30b29aa4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6cc0e7f3.js",
     "runtime-main.js.map": "/static/js/runtime-main.6cc0e7f3.js.map",
     "static/js/2.41a919b5.chunk.js": "/static/js/2.41a919b5.chunk.js",
@@ -14,24 +14,24 @@
     "static/js/4.fbe81a3a.chunk.js": "/static/js/4.fbe81a3a.chunk.js",
     "static/js/4.fbe81a3a.chunk.js.map": "/static/js/4.fbe81a3a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.481045cebe57d1c7d95a86a7a65f89e6.js": "/precache-manifest.481045cebe57d1c7d95a86a7a65f89e6.js",
+    "precache-manifest.4e6ae54b0c5196e7c9465ef328a72d72.js": "/precache-manifest.4e6ae54b0c5196e7c9465ef328a72d72.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/static/css/4.3e7d09e6.chunk.css.map",
     "static/css/main.8d0eac33.chunk.css.map": "/static/css/main.8d0eac33.chunk.css.map",
     "static/js/2.41a919b5.chunk.js.LICENSE.txt": "/static/js/2.41a919b5.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/BMSIT.png": "/static/media/BMSIT.517574c8.png",
     "static/media/CRD-SS_Logo.jpg": "/static/media/CRD-SS_Logo.9b2f8aa1.jpg",
     "static/media/cisco.png": "/static/media/cisco.1669db13.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/docker.png": "/static/media/docker.ab093c5a.png",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.8ddf76a1.png",
-    "static/media/harvardLogo.png": "/static/media/harvardLogo.35ef5e91.png",
     "static/media/linux.png": "/static/media/linux.dc98064e.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/northeasternUniversity.png": "/static/media/northeasternUniversity.792538cf.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
-    "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
     "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg",
     "static/media/teachingAssistantLogo.jpg": "/static/media/teachingAssistantLogo.6a396ac4.jpg",
     "static/media/troubleshooting.png": "/static/media/troubleshooting.fdd9e26d.png"
@@ -40,6 +40,6 @@
     "static/js/runtime-main.6cc0e7f3.js",
     "static/js/2.41a919b5.chunk.js",
     "static/css/main.8d0eac33.chunk.css",
-    "static/js/main.fa794356.chunk.js"
+    "static/js/main.30b29aa4.chunk.js"
   ]
 }
